@@ -1,4 +1,4 @@
-# CoinMarketCap FrontEnd and Backend Tests
+# CoinMarketCapTest: FrontEnd and Backend Tests
 ## Created by Rishabh Govindraj
 
 #### to run all tests

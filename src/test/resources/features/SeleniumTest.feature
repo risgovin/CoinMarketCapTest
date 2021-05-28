@@ -14,7 +14,7 @@ Feature: Selenium Tests
         Given I am a browser user
         And I navigate to "https://coinmarketcap.com"
         When I click on the element "//button[text()='Filters']"
-        When I click on the element "//li/button[last()]"
+        And I click on the element "//li/button[last()]"
         And I click on the element "//button[text()='Market Cap']"
         And I click on the element "//button[text()='$1B - $10B']"
         And I click on the element "//button[text()='Apply Filter']"
